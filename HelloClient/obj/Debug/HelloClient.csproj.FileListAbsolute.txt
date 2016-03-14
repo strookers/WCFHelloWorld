@@ -1,0 +1,5 @@
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloClient\bin\Debug\HelloClient.exe.config
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloClient\bin\Debug\HelloClient.exe
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloClient\bin\Debug\HelloClient.pdb
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloClient\obj\Debug\HelloClient.exe
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloClient\obj\Debug\HelloClient.pdb

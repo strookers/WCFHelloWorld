@@ -1,0 +1,8 @@
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\WcfHelloService\bin\Debug\WcfHelloService.dll.config
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\WcfHelloService\bin\Debug\WcfHelloService.dll
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\WcfHelloService\bin\Debug\WcfHelloService.pdb
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\WcfHelloService\bin\Debug\HelloServer.dll
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\WcfHelloService\bin\Debug\HelloServer.pdb
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\WcfHelloService\obj\Debug\WcfHelloService.csprojResolveAssemblyReference.cache
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\WcfHelloService\obj\Debug\WcfHelloService.dll
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\WcfHelloService\obj\Debug\WcfHelloService.pdb

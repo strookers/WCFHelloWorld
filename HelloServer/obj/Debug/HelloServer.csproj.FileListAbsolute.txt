@@ -1,0 +1,5 @@
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloServer\bin\Debug\HelloServer.dll
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloServer\bin\Debug\HelloServer.pdb
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloServer\obj\Debug\HelloServer.csprojResolveAssemblyReference.cache
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloServer\obj\Debug\HelloServer.dll
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloServer\obj\Debug\HelloServer.pdb

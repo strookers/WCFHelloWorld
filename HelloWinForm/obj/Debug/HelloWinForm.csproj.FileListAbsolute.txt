@@ -1,0 +1,9 @@
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\bin\Debug\HelloWinForm.exe.config
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\bin\Debug\HelloWinForm.exe
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\bin\Debug\HelloWinForm.pdb
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\obj\Debug\HelloWinForm.csprojResolveAssemblyReference.cache
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\obj\Debug\HelloWinForm.Form1.resources
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\obj\Debug\HelloWinForm.Properties.Resources.resources
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\obj\Debug\HelloWinForm.csproj.GenerateResource.Cache
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\obj\Debug\HelloWinForm.exe
+c:\users\mk88\documents\visual studio 2015\Projects\WCFHelloWorld\HelloWinForm\obj\Debug\HelloWinForm.pdb
